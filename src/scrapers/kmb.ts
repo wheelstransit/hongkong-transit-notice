@@ -23,8 +23,10 @@ interface KMBNoticeResponse {
 }
 
 interface KMBNotice {
-  announce_seq: string;
-  url: string;
+  kpi_referenceno: string;
+  kpi_noticeimageurl: string;
+  krbpiid_routeno: string;
+  krbpiid_boundno: string;
 }
 
 async function fetchKMBRoutes(): Promise<Route[]> {
@@ -34,7 +36,9 @@ async function fetchKMBRoutes(): Promise<Route[]> {
   }
   
   const text = await response.text();
-  const routes: KMBRoute[] = JSON.parse(text);
+  const data = JSON.parse(text);
+  
+  const routes = Array.isArray(data) ? data : data.data || [];
   
   const uniqueRoutes = new Map<string, Route>();
   for (const route of routes) {
@@ -52,20 +56,32 @@ async function fetchKMBRoutes(): Promise<Route[]> {
 
 async function fetchKMBNotices(route: string, bound: number): Promise<Notice[]> {
   const response = await fetch(KMB_NOTICE_API(route, bound));
+  
   if (!response.ok) {
-    throw new Error(`Failed to fetch KMB notices for route ${route}: ${response.statusText}`);
+    console.warn(`KMB API returned ${response.status} for route ${route}`);
+    return [];
   }
   
   const text = await response.text();
-  const data: KMBNoticeResponse = JSON.parse(text);
   
-  return data.data.map((notice) => ({
-    id: notice.announce_seq,
-    pdfUrl: KMB_PDF_API(notice.url),
-    route,
-    isActive: true,
-    discoveredAt: new Date()
-  }));
+  try {
+    const data: KMBNoticeResponse = JSON.parse(text);
+    
+    if (!data.data || !Array.isArray(data.data)) {
+      return [];
+    }
+    
+    return data.data.map((notice) => ({
+      id: notice.kpi_referenceno,
+      pdfUrl: KMB_PDF_API(notice.kpi_noticeimageurl),
+      route,
+      isActive: true,
+      discoveredAt: new Date()
+    }));
+  } catch (error) {
+    console.warn(`Failed to parse KMB response for route ${route}:`, error);
+    return [];
+  }
 }
 
 export async function scrapeKMB(now: Date): Promise<void> {
@@ -76,7 +92,7 @@ export async function scrapeKMB(now: Date): Promise<void> {
   
   const seenNotices = new Set<string>();
   
-  for (const route of routes.slice(0, 10)) {
+  for (const route of routes) {
     try {
       const notices = await fetchKMBNotices(route.route, route.bound!);
       

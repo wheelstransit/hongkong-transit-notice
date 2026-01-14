@@ -32,7 +32,9 @@ async function fetchCTBRoutes(): Promise<Route[]> {
   }
   
   const text = await response.text();
-  const routes: CTBRoute[] = JSON.parse(text);
+  const data = JSON.parse(text);
+  
+  const routes = Array.isArray(data) ? data : data.data || [];
   
   const uniqueRoutes = new Map<string, Route>();
   for (const route of routes) {
@@ -53,17 +55,27 @@ async function fetchCTBNotices(route: string): Promise<Notice[]> {
   }
   
   const text = await response.text();
-  const data: CTBNoticeResponse = JSON.parse(text);
   
-  if (!data.data) {
-    return [];
+  const pdfRegex = /https?:\/\/mobile\.citybus\.com\.hk\/pdf\/([^"]+\.pdf)/gi;
+  const matches: string[] = [];
+  let match;
+  
+  while ((match = pdfRegex.exec(text)) !== null) {
+    matches.push(match[1]);
   }
   
-  const baseUrl = 'https://mobile.citybus.com.hk/nwp3/notice/';
+  const baseUrl = 'https://mobile.citybus.com.hk/pdf/';
+  const uniqueNotices = new Set<string>();
   
-  return data.data.map((notice) => ({
-    id: notice.filename,
-    pdfUrl: `${baseUrl}${notice.filename}`,
+  for (const filename of matches) {
+    if (!uniqueNotices.has(filename)) {
+      uniqueNotices.add(filename);
+    }
+  }
+  
+  return Array.from(uniqueNotices).map((filename) => ({
+    id: filename,
+    pdfUrl: `${baseUrl}${filename}`,
     route,
     isActive: true,
     discoveredAt: new Date()
@@ -78,7 +90,7 @@ export async function scrapeCTB(now: Date): Promise<void> {
   
   const seenNotices = new Set<string>();
   
-  for (const route of routes.slice(0, 10)) {
+  for (const route of routes) {
     try {
       const notices = await fetchCTBNotices(route.route);
       
