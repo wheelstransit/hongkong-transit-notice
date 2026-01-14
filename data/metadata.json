@@ -3,7 +3,7 @@
     "E202501199b03.pdf": {
       "id": "E202501199b03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501199b03.pdf",
-      "pdfPath": "CTB/2026/01/E202501199b03.pdf",
+      "pdfPath": "CTB/2025/12/E202501199b03.pdf",
       "routes": [
         "1",
         "10",
@@ -55,12 +55,13 @@
         "A17"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/17/2025"
     },
     "E202500795a03.pdf": {
       "id": "E202500795a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202500795a03.pdf",
-      "pdfPath": "CTB/2026/01/E202500795a03.pdf",
+      "pdfPath": "CTB/2025/06/E202500795a03.pdf",
       "routes": [
         "1",
         "8X"
@@ -70,12 +71,13 @@
         "8X"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "06/02/2025"
     },
     "E202500792b03.pdf": {
       "id": "E202500792b03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202500792b03.pdf",
-      "pdfPath": "CTB/2026/01/E202500792b03.pdf",
+      "pdfPath": "CTB/2025/06/E202500792b03.pdf",
       "routes": [
         "1"
       ],
@@ -83,7 +85,8 @@
         "1"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:34:53.597Z"
+      "lastSeenAt": "2026-01-14T18:34:53.597Z",
+      "publishedAt": "06/01/2025"
     },
     "E202600090a03.pdf": {
       "id": "E202600090a03.pdf",
@@ -98,7 +101,8 @@
         "8X"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/05/2026"
     },
     "E202600101a03.pdf": {
       "id": "E202600101a03.pdf",
@@ -125,12 +129,13 @@
         "NA10"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/06/2026"
     },
     "E202501736a03.pdf": {
       "id": "E202501736a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501736a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501736a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501736a03.pdf",
       "routes": [
         "10",
         "109",
@@ -154,12 +159,13 @@
         "A17"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/02/2025"
     },
     "E202501179a03.pdf": {
       "id": "E202501179a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501179a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501179a03.pdf",
+      "pdfPath": "CTB/2025/09/E202501179a03.pdf",
       "routes": [
         "10",
         "101",
@@ -175,7 +181,8 @@
         "N8X"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "09/01/2025"
     },
     "E202600044a03.pdf": {
       "id": "E202600044a03.pdf",
@@ -210,12 +217,13 @@
         "NA12"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/02/2026"
     },
     "E202500531b03.pdf": {
       "id": "E202500531b03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202500531b03.pdf",
-      "pdfPath": "CTB/2026/01/E202500531b03.pdf",
+      "pdfPath": "CTB/2025/09/E202500531b03.pdf",
       "routes": [
         "101R",
         "111",
@@ -235,7 +243,8 @@
         "N121"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "09/30/2025"
     },
     "E202600127a03.pdf": {
       "id": "E202600127a03.pdf",
@@ -250,12 +259,13 @@
         "106"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:34:53.597Z"
+      "lastSeenAt": "2026-01-14T18:34:53.597Z",
+      "publishedAt": "01/08/2026"
     },
     "E202501595a03.pdf": {
       "id": "E202501595a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501595a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501595a03.pdf",
+      "pdfPath": "CTB/2025/11/E202501595a03.pdf",
       "routes": [
         "102",
         "102P",
@@ -413,7 +423,8 @@
         "NA12"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "11/11/2025"
     },
     "E202600134a03.pdf": {
       "id": "E202600134a03.pdf",
@@ -426,12 +437,13 @@
         "103"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:34:53.597Z"
+      "lastSeenAt": "2026-01-14T18:34:53.597Z",
+      "publishedAt": "01/08/2026"
     },
     "E202501765a03.pdf": {
       "id": "E202501765a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501765a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501765a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501765a03.pdf",
       "routes": [
         "103"
       ],
@@ -439,12 +451,13 @@
         "103"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:34:53.597Z"
+      "lastSeenAt": "2026-01-14T18:34:53.597Z",
+      "publishedAt": "12/05/2025"
     },
     "E202400765d03.pdf": {
       "id": "E202400765d03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202400765d03.pdf",
-      "pdfPath": "CTB/2026/01/E202400765d03.pdf",
+      "pdfPath": "CTB/2025/08/E202400765d03.pdf",
       "routes": [
         "103",
         "N26"
@@ -454,7 +467,8 @@
         "N26"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "08/31/2025"
     },
     "E202600135a03.pdf": {
       "id": "E202600135a03.pdf",
@@ -467,7 +481,8 @@
         "104"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:34:53.597Z"
+      "lastSeenAt": "2026-01-14T18:34:53.597Z",
+      "publishedAt": "01/08/2026"
     },
     "E202401620i03.pdf": {
       "id": "E202401620i03.pdf",
@@ -486,12 +501,13 @@
         "971"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/06/2026"
     },
     "E202400231d03.pdf": {
       "id": "E202400231d03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202400231d03.pdf",
-      "pdfPath": "CTB/2026/01/E202400231d03.pdf",
+      "pdfPath": "CTB/2025/08/E202400231d03.pdf",
       "routes": [
         "107P",
         "30X",
@@ -517,12 +533,13 @@
         "NA10"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "08/21/2025"
     },
     "E202501898b03.pdf": {
       "id": "E202501898b03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501898b03.pdf",
-      "pdfPath": "CTB/2026/01/E202501898b03.pdf",
+      "pdfPath": "CTB/2025/12/E202501898b03.pdf",
       "routes": [
         "109"
       ],
@@ -530,12 +547,13 @@
         "109"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:34:53.597Z"
+      "lastSeenAt": "2026-01-14T18:34:53.597Z",
+      "publishedAt": "12/29/2025"
     },
     "E202501532a03.pdf": {
       "id": "E202501532a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501532a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501532a03.pdf",
+      "pdfPath": "CTB/2025/10/E202501532a03.pdf",
       "routes": [
         "109",
         "A20"
@@ -545,7 +563,8 @@
         "A20"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "10/31/2025"
     },
     "E202600091a03.pdf": {
       "id": "E202600091a03.pdf",
@@ -560,7 +579,8 @@
         "25"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:34:53.597Z"
+      "lastSeenAt": "2026-01-14T18:34:53.597Z",
+      "publishedAt": "01/05/2026"
     },
     "E202600136a03.pdf": {
       "id": "E202600136a03.pdf",
@@ -573,12 +593,13 @@
         "110"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:34:53.597Z"
+      "lastSeenAt": "2026-01-14T18:34:53.597Z",
+      "publishedAt": "01/08/2026"
     },
     "E202301526e03.pdf": {
       "id": "E202301526e03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202301526e03.pdf",
-      "pdfPath": "CTB/2026/01/E202301526e03.pdf",
+      "pdfPath": "CTB/2025/10/E202301526e03.pdf",
       "routes": [
         "110"
       ],
@@ -586,12 +607,13 @@
         "110"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:34:53.597Z"
+      "lastSeenAt": "2026-01-14T18:34:53.597Z",
+      "publishedAt": "10/08/2025"
     },
     "E202500951a03.pdf": {
       "id": "E202500951a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202500951a03.pdf",
-      "pdfPath": "CTB/2026/01/E202500951a03.pdf",
+      "pdfPath": "CTB/2025/07/E202500951a03.pdf",
       "routes": [
         "110"
       ],
@@ -599,7 +621,8 @@
         "110"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:34:53.597Z"
+      "lastSeenAt": "2026-01-14T18:34:53.597Z",
+      "publishedAt": "07/16/2025"
     },
     "E202600078a03.pdf": {
       "id": "E202600078a03.pdf",
@@ -620,12 +643,13 @@
         "N171"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/02/2026"
     },
     "E202501821a03.pdf": {
       "id": "E202501821a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501821a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501821a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501821a03.pdf",
       "routes": [
         "113",
         "5B",
@@ -641,12 +665,13 @@
         "N8X"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/16/2025"
     },
     "E202501805a03.pdf": {
       "id": "E202501805a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501805a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501805a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501805a03.pdf",
       "routes": [
         "113"
       ],
@@ -654,7 +679,8 @@
         "113"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:34:53.597Z"
+      "lastSeenAt": "2026-01-14T18:34:53.597Z",
+      "publishedAt": "12/15/2025"
     },
     "E202600066a03.pdf": {
       "id": "E202600066a03.pdf",
@@ -669,12 +695,13 @@
         "N118"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/02/2026"
     },
     "E202501080b03.pdf": {
       "id": "E202501080b03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501080b03.pdf",
-      "pdfPath": "CTB/2026/01/E202501080b03.pdf",
+      "pdfPath": "CTB/2025/11/E202501080b03.pdf",
       "routes": [
         "118",
         "118P",
@@ -694,7 +721,8 @@
         "N118"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "11/13/2025"
     },
     "E202600023a03.pdf": {
       "id": "E202600023a03.pdf",
@@ -713,7 +741,8 @@
         "N182"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202600095a03.pdf": {
       "id": "E202600095a03.pdf",
@@ -734,12 +763,13 @@
         "99"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/05/2026"
     },
     "E202501197a03.pdf": {
       "id": "E202501197a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501197a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501197a03.pdf",
+      "pdfPath": "CTB/2025/09/E202501197a03.pdf",
       "routes": [
         "18"
       ],
@@ -747,7 +777,8 @@
         "18"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:34:53.597Z"
+      "lastSeenAt": "2026-01-14T18:34:53.597Z",
+      "publishedAt": "09/05/2025"
     },
     "E202600108a03.pdf": {
       "id": "E202600108a03.pdf",
@@ -762,7 +793,8 @@
         "33X"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/06/2026"
     },
     "E202600082a03.pdf": {
       "id": "E202600082a03.pdf",
@@ -775,7 +807,8 @@
         "2"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:34:53.597Z"
+      "lastSeenAt": "2026-01-14T18:34:53.597Z",
+      "publishedAt": "01/02/2026"
     },
     "E202600126a03.pdf": {
       "id": "E202600126a03.pdf",
@@ -792,12 +825,13 @@
         "22M"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:34:53.597Z"
+      "lastSeenAt": "2026-01-14T18:34:53.597Z",
+      "publishedAt": "01/08/2026"
     },
     "E202501778a03.pdf": {
       "id": "E202501778a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501778a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501778a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501778a03.pdf",
       "routes": [
         "20A",
         "22",
@@ -813,12 +847,13 @@
         "22X"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:34:53.597Z"
+      "lastSeenAt": "2026-01-14T18:34:53.597Z",
+      "publishedAt": "12/10/2025"
     },
     "E202501740a03.pdf": {
       "id": "E202501740a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501740a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501740a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501740a03.pdf",
       "routes": [
         "20A",
         "970",
@@ -832,7 +867,8 @@
         "971"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/03/2025"
     },
     "E202600042a03.pdf": {
       "id": "E202600042a03.pdf",
@@ -855,12 +891,13 @@
         "N8X"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/02/2026"
     },
     "E202500373b03.pdf": {
       "id": "E202500373b03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202500373b03.pdf",
-      "pdfPath": "CTB/2026/01/E202500373b03.pdf",
+      "pdfPath": "CTB/2025/02/E202500373b03.pdf",
       "routes": [
         "23B",
         "27",
@@ -880,12 +917,13 @@
         "85P"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "02/28/2025"
     },
     "E202401667b03.pdf": {
       "id": "E202401667b03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202401667b03.pdf",
-      "pdfPath": "CTB/2026/01/E202401667b03.pdf",
+      "pdfPath": "CTB/2025/12/E202401667b03.pdf",
       "routes": [
         "25",
         "25A",
@@ -899,12 +937,13 @@
         "81A"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/09/2025"
     },
     "E202500756b03.pdf": {
       "id": "E202500756b03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202500756b03.pdf",
-      "pdfPath": "CTB/2026/01/E202500756b03.pdf",
+      "pdfPath": "CTB/2025/05/E202500756b03.pdf",
       "routes": [
         "25",
         "307",
@@ -924,12 +963,13 @@
         "962A"
       ],
       "discoveredAt": "2026-01-14T18:34:53.597Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "05/22/2025"
     },
     "E202501489a03.pdf": {
       "id": "E202501489a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501489a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501489a03.pdf",
+      "pdfPath": "CTB/2025/10/E202501489a03.pdf",
       "routes": [
         "113"
       ],
@@ -937,7 +977,8 @@
         "113"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "10/24/2025"
     },
     "E202600119a03.pdf": {
       "id": "E202600119a03.pdf",
@@ -954,7 +995,8 @@
         "606A"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/07/2026"
     },
     "E202600138a03.pdf": {
       "id": "E202600138a03.pdf",
@@ -967,7 +1009,8 @@
         "117"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/08/2026"
     },
     "E202600093a03.pdf": {
       "id": "E202600093a03.pdf",
@@ -988,12 +1031,13 @@
         "X15"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/05/2026"
     },
     "E202501529b03.pdf": {
       "id": "E202501529b03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501529b03.pdf",
-      "pdfPath": "CTB/2026/01/E202501529b03.pdf",
+      "pdfPath": "CTB/2025/10/E202501529b03.pdf",
       "routes": [
         "12",
         "12M",
@@ -1005,12 +1049,13 @@
         "13"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "10/30/2025"
     },
     "E202501547a03.pdf": {
       "id": "E202501547a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501547a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501547a03.pdf",
+      "pdfPath": "CTB/2025/11/E202501547a03.pdf",
       "routes": [
         "26"
       ],
@@ -1018,7 +1063,8 @@
         "26"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "11/05/2025"
     },
     "E202600148a03.pdf": {
       "id": "E202600148a03.pdf",
@@ -1045,12 +1091,13 @@
         "973"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202401626b03.pdf": {
       "id": "E202401626b03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202401626b03.pdf",
-      "pdfPath": "CTB/2026/01/E202401626b03.pdf",
+      "pdfPath": "CTB/2025/12/E202401626b03.pdf",
       "routes": [
         "27",
         "41A",
@@ -1068,7 +1115,8 @@
         "85P"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/09/2025"
     },
     "E202600083a03.pdf": {
       "id": "E202600083a03.pdf",
@@ -1081,7 +1129,8 @@
         "2X"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/02/2026"
     },
     "E202600012a03.pdf": {
       "id": "E202600012a03.pdf",
@@ -1098,7 +1147,8 @@
         "R307"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "N/A"
     },
     "E202600024a03.pdf": {
       "id": "E202600024a03.pdf",
@@ -1111,12 +1161,13 @@
         "307"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202401561b03.pdf": {
       "id": "E202401561b03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202401561b03.pdf",
-      "pdfPath": "CTB/2026/01/E202401561b03.pdf",
+      "pdfPath": "CTB/2024/11/E202401561b03.pdf",
       "routes": [
         "307P",
         "601",
@@ -1138,7 +1189,8 @@
         "690"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "11/24/2024"
     },
     "E202600084a03.pdf": {
       "id": "E202600084a03.pdf",
@@ -1153,7 +1205,8 @@
         "4"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/02/2026"
     },
     "E202600130a03.pdf": {
       "id": "E202600130a03.pdf",
@@ -1166,7 +1219,8 @@
         "33X"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202201243j03.pdf": {
       "id": "E202201243j03.pdf",
@@ -1187,7 +1241,8 @@
         "970"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/06/2026"
     },
     "E202600139a03.pdf": {
       "id": "E202600139a03.pdf",
@@ -1208,7 +1263,8 @@
         "R38"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/08/2026"
     },
     "E202201240l03.pdf": {
       "id": "E202201240l03.pdf",
@@ -1229,12 +1285,13 @@
         "NA10"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/06/2026"
     },
     "E202501861a03.pdf": {
       "id": "E202501861a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501861a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501861a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501861a03.pdf",
       "routes": [
         "3A"
       ],
@@ -1242,7 +1299,8 @@
         "3A"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/29/2025"
     },
     "E202201241k03.pdf": {
       "id": "E202201241k03.pdf",
@@ -1257,12 +1315,13 @@
         "73"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/06/2026"
     },
     "E202500971a03.pdf": {
       "id": "E202500971a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202500971a03.pdf",
-      "pdfPath": "CTB/2026/01/E202500971a03.pdf",
+      "pdfPath": "CTB/2025/07/E202500971a03.pdf",
       "routes": [
         "43M"
       ],
@@ -1270,7 +1329,8 @@
         "43M"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "07/15/2025"
     },
     "E202600019a03.pdf": {
       "id": "E202600019a03.pdf",
@@ -1285,7 +1345,8 @@
         "N50"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202600016a03.pdf": {
       "id": "E202600016a03.pdf",
@@ -1306,7 +1367,8 @@
         "R950"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202501738a03.pdf": {
       "id": "E202501738a03.pdf",
@@ -1337,12 +1399,13 @@
         "N50"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/06/2026"
     },
     "E202501846a03.pdf": {
       "id": "E202501846a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501846a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501846a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501846a03.pdf",
       "routes": [
         "50",
         "50R",
@@ -1416,7 +1479,8 @@
         "N969"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/18/2025"
     },
     "E202600020a03.pdf": {
       "id": "E202600020a03.pdf",
@@ -1429,12 +1493,13 @@
         "55"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202500758c03.pdf": {
       "id": "E202500758c03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202500758c03.pdf",
-      "pdfPath": "CTB/2026/01/E202500758c03.pdf",
+      "pdfPath": "CTB/2025/12/E202500758c03.pdf",
       "routes": [
         "55",
         "797"
@@ -1444,12 +1509,13 @@
         "797"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/01/2025"
     },
     "E202500983a03.pdf": {
       "id": "E202500983a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202500983a03.pdf",
-      "pdfPath": "CTB/2026/01/E202500983a03.pdf",
+      "pdfPath": "CTB/2025/07/E202500983a03.pdf",
       "routes": [
         "56",
         "56A"
@@ -1459,7 +1525,8 @@
         "56A"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "07/22/2025"
     },
     "E202501903a03.pdf": {
       "id": "E202501903a03.pdf",
@@ -1482,12 +1549,13 @@
         "979"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/02/2026"
     },
     "E202501551b03.pdf": {
       "id": "E202501551b03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501551b03.pdf",
-      "pdfPath": "CTB/2026/01/E202501551b03.pdf",
+      "pdfPath": "CTB/2025/12/E202501551b03.pdf",
       "routes": [
         "56A",
         "B7"
@@ -1497,12 +1565,13 @@
         "B7"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/10/2025"
     },
     "E202501114c03.pdf": {
       "id": "E202501114c03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501114c03.pdf",
-      "pdfPath": "CTB/2026/01/E202501114c03.pdf",
+      "pdfPath": "CTB/2025/12/E202501114c03.pdf",
       "routes": [
         "56A",
         "679",
@@ -1526,12 +1595,13 @@
         "979"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/01/2025"
     },
     "E202501714a03.pdf": {
       "id": "E202501714a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501714a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501714a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501714a03.pdf",
       "routes": [
         "586",
         "701A",
@@ -1545,7 +1615,8 @@
         "795"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/01/2025"
     },
     "E202600106a03.pdf": {
       "id": "E202600106a03.pdf",
@@ -1562,7 +1633,8 @@
         "72A"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/06/2026"
     },
     "E202600150a03.pdf": {
       "id": "E202600150a03.pdf",
@@ -1575,12 +1647,13 @@
         "592"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202501175c03.pdf": {
       "id": "E202501175c03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501175c03.pdf",
-      "pdfPath": "CTB/2026/01/E202501175c03.pdf",
+      "pdfPath": "CTB/2025/09/E202501175c03.pdf",
       "routes": [
         "595",
         "7",
@@ -1596,7 +1669,8 @@
         "971"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "09/01/2025"
     },
     "E202600086a03.pdf": {
       "id": "E202600086a03.pdf",
@@ -1609,7 +1683,8 @@
         "5B"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/05/2026"
     },
     "E202600087a03.pdf": {
       "id": "E202600087a03.pdf",
@@ -1622,12 +1697,13 @@
         "5X"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/05/2026"
     },
     "E202501443a03.pdf": {
       "id": "E202501443a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501443a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501443a03.pdf",
+      "pdfPath": "CTB/2025/10/E202501443a03.pdf",
       "routes": [
         "629"
       ],
@@ -1635,7 +1711,8 @@
         "629"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "10/17/2025"
     },
     "E202600025a03.pdf": {
       "id": "E202600025a03.pdf",
@@ -1650,7 +1727,8 @@
         "N680"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202600013b03.pdf": {
       "id": "E202600013b03.pdf",
@@ -1667,12 +1745,13 @@
         "R680"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202501212a03.pdf": {
       "id": "E202501212a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501212a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501212a03.pdf",
+      "pdfPath": "CTB/2025/09/E202501212a03.pdf",
       "routes": [
         "680B",
         "681P",
@@ -1686,7 +1765,8 @@
         "981P"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "09/10/2025"
     },
     "E202600026a03.pdf": {
       "id": "E202600026a03.pdf",
@@ -1699,12 +1779,13 @@
         "681"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202501781a03.pdf": {
       "id": "E202501781a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501781a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501781a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501781a03.pdf",
       "routes": [
         "681P",
         "682A",
@@ -1716,7 +1797,8 @@
         "981P"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/10/2025"
     },
     "E202600027a03.pdf": {
       "id": "E202600027a03.pdf",
@@ -1729,12 +1811,13 @@
         "682"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E201901778h03.pdf": {
       "id": "E201901778h03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E201901778h03.pdf",
-      "pdfPath": "CTB/2026/01/E201901778h03.pdf",
+      "pdfPath": "CTB/2024/12/E201901778h03.pdf",
       "routes": [
         "682",
         "682A",
@@ -1746,12 +1829,13 @@
         "682B"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/31/2024"
     },
     "E202501917a03.pdf": {
       "id": "E202501917a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501917a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501917a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501917a03.pdf",
       "routes": [
         "694",
         "790",
@@ -1771,12 +1855,13 @@
         "9"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/30/2025"
     },
     "E202501795a03.pdf": {
       "id": "E202501795a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501795a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501795a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501795a03.pdf",
       "routes": [
         "694",
         "790",
@@ -1802,7 +1887,8 @@
         "E22A"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/16/2025"
     },
     "E202600088a03.pdf": {
       "id": "E202600088a03.pdf",
@@ -1817,12 +1903,13 @@
         "91"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/05/2026"
     },
     "E202501743a03.pdf": {
       "id": "E202501743a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501743a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501743a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501743a03.pdf",
       "routes": [
         "701",
         "701S"
@@ -1832,7 +1919,8 @@
         "701S"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/03/2025"
     },
     "E202600128a03.pdf": {
       "id": "E202600128a03.pdf",
@@ -1845,7 +1933,8 @@
         "720"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/08/2026"
     },
     "E202600129a03.pdf": {
       "id": "E202600129a03.pdf",
@@ -1858,7 +1947,8 @@
         "722"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/08/2026"
     },
     "E202600131a03.pdf": {
       "id": "E202600131a03.pdf",
@@ -1871,7 +1961,8 @@
         "780"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/08/2026"
     },
     "E202600132a03.pdf": {
       "id": "E202600132a03.pdf",
@@ -1886,12 +1977,13 @@
         "789"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/08/2026"
     },
     "E202501084b03.pdf": {
       "id": "E202501084b03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501084b03.pdf",
-      "pdfPath": "CTB/2026/01/E202501084b03.pdf",
+      "pdfPath": "CTB/2025/08/E202501084b03.pdf",
       "routes": [
         "79",
         "B8"
@@ -1901,12 +1993,13 @@
         "B8"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "08/21/2025"
     },
     "E202501741a03.pdf": {
       "id": "E202501741a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501741a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501741a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501741a03.pdf",
       "routes": [
         "790",
         "793",
@@ -1924,7 +2017,8 @@
         "798"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/03/2025"
     },
     "E202600152a03.pdf": {
       "id": "E202600152a03.pdf",
@@ -1939,7 +2033,8 @@
         "795X"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202600043a03.pdf": {
       "id": "E202600043a03.pdf",
@@ -1954,12 +2049,13 @@
         "795X"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/01/2026"
     },
     "E202500856b03.pdf": {
       "id": "E202500856b03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202500856b03.pdf",
-      "pdfPath": "CTB/2026/01/E202500856b03.pdf",
+      "pdfPath": "CTB/2025/12/E202500856b03.pdf",
       "routes": [
         "796P",
         "E22A",
@@ -1971,12 +2067,13 @@
         "E22S"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/12/2025"
     },
     "E202301525e03.pdf": {
       "id": "E202301525e03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202301525e03.pdf",
-      "pdfPath": "CTB/2026/01/E202301525e03.pdf",
+      "pdfPath": "CTB/2025/10/E202301525e03.pdf",
       "routes": [
         "796P",
         "796X",
@@ -1990,12 +2087,13 @@
         "E21X"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "10/08/2025"
     },
     "E202501675a03.pdf": {
       "id": "E202501675a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501675a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501675a03.pdf",
+      "pdfPath": "CTB/2025/11/E202501675a03.pdf",
       "routes": [
         "796X",
         "NA20"
@@ -2005,12 +2103,13 @@
         "NA20"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "11/21/2025"
     },
     "E202501744a03.pdf": {
       "id": "E202501744a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501744a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501744a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501744a03.pdf",
       "routes": [
         "798P",
         "798X"
@@ -2020,12 +2119,13 @@
         "798X"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/03/2025"
     },
     "E202500605a03.pdf": {
       "id": "E202500605a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202500605a03.pdf",
-      "pdfPath": "CTB/2026/01/E202500605a03.pdf",
+      "pdfPath": "CTB/2025/04/E202500605a03.pdf",
       "routes": [
         "798P",
         "989"
@@ -2035,7 +2135,8 @@
         "989"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "04/18/2025"
     },
     "E202600021a03.pdf": {
       "id": "E202600021a03.pdf",
@@ -2048,12 +2149,13 @@
         "79X"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202501501a03.pdf": {
       "id": "E202501501a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501501a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501501a03.pdf",
+      "pdfPath": "CTB/2025/10/E202501501a03.pdf",
       "routes": [
         "79X",
         "970",
@@ -2065,7 +2167,8 @@
         "970X"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "10/27/2025"
     },
     "E202600089a03.pdf": {
       "id": "E202600089a03.pdf",
@@ -2080,7 +2183,8 @@
         "8P"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/05/2026"
     },
     "E202600107a03.pdf": {
       "id": "E202600107a03.pdf",
@@ -2093,12 +2197,13 @@
         "82X"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/06/2026"
     },
     "E202500933b03.pdf": {
       "id": "E202500933b03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202500933b03.pdf",
-      "pdfPath": "CTB/2026/01/E202500933b03.pdf",
+      "pdfPath": "CTB/2025/07/E202500933b03.pdf",
       "routes": [
         "85"
       ],
@@ -2106,7 +2211,8 @@
         "85"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "07/04/2025"
     },
     "E202600097b03.pdf": {
       "id": "E202600097b03.pdf",
@@ -2119,7 +2225,8 @@
         "9"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202600014a03.pdf": {
       "id": "E202600014a03.pdf",
@@ -2138,7 +2245,8 @@
         "R930"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202600028a03.pdf": {
       "id": "E202600028a03.pdf",
@@ -2161,12 +2269,13 @@
         "969"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202501612a03.pdf": {
       "id": "E202501612a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501612a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501612a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501612a03.pdf",
       "routes": [
         "930",
         "930X"
@@ -2176,7 +2285,8 @@
         "930X"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/23/2025"
     },
     "E202600029a03.pdf": {
       "id": "E202600029a03.pdf",
@@ -2189,7 +2299,8 @@
         "948"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202600015a03.pdf": {
       "id": "E202600015a03.pdf",
@@ -2204,12 +2315,13 @@
         "R948"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202501372c03.pdf": {
       "id": "E202501372c03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501372c03.pdf",
-      "pdfPath": "CTB/2026/01/E202501372c03.pdf",
+      "pdfPath": "CTB/2025/12/E202501372c03.pdf",
       "routes": [
         "948",
         "948A",
@@ -2225,12 +2337,13 @@
         "R948"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/14/2025"
     },
     "E202501454a03.pdf": {
       "id": "E202501454a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501454a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501454a03.pdf",
+      "pdfPath": "CTB/2025/10/E202501454a03.pdf",
       "routes": [
         "948",
         "948A",
@@ -2244,12 +2357,13 @@
         "948E"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "10/17/2025"
     },
     "E202501844b03.pdf": {
       "id": "E202501844b03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501844b03.pdf",
-      "pdfPath": "CTB/2026/01/E202501844b03.pdf",
+      "pdfPath": "CTB/2025/12/E202501844b03.pdf",
       "routes": [
         "94A"
       ],
@@ -2257,7 +2371,8 @@
         "94A"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/18/2025"
     },
     "E202600017a03.pdf": {
       "id": "E202600017a03.pdf",
@@ -2278,12 +2393,13 @@
         "R962"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202501906a03.pdf": {
       "id": "E202501906a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501906a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501906a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501906a03.pdf",
       "routes": [
         "952C",
         "952P"
@@ -2293,12 +2409,13 @@
         "952P"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/30/2025"
     },
     "E202501771a03.pdf": {
       "id": "E202501771a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501771a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501771a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501771a03.pdf",
       "routes": [
         "962",
         "962A",
@@ -2318,12 +2435,13 @@
         "X962"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/10/2025"
     },
     "E202500624c03.pdf": {
       "id": "E202500624c03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202500624c03.pdf",
-      "pdfPath": "CTB/2026/01/E202500624c03.pdf",
+      "pdfPath": "CTB/2025/09/E202500624c03.pdf",
       "routes": [
         "962",
         "962C",
@@ -2343,7 +2461,8 @@
         "N962"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "09/16/2025"
     },
     "E202600018a03.pdf": {
       "id": "E202600018a03.pdf",
@@ -2366,12 +2485,13 @@
         "R969"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202501852a03.pdf": {
       "id": "E202501852a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501852a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501852a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501852a03.pdf",
       "routes": [
         "967",
         "967X",
@@ -2395,12 +2515,13 @@
         "N969"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/30/2025"
     },
     "E202500506a03.pdf": {
       "id": "E202500506a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202500506a03.pdf",
-      "pdfPath": "CTB/2026/01/E202500506a03.pdf",
+      "pdfPath": "CTB/2025/04/E202500506a03.pdf",
       "routes": [
         "969",
         "969N",
@@ -2412,12 +2533,13 @@
         "N969"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "04/01/2025"
     },
     "E202501851a03.pdf": {
       "id": "E202501851a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501851a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501851a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501851a03.pdf",
       "routes": [
         "969B"
       ],
@@ -2425,12 +2547,13 @@
         "969B"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/30/2025"
     },
     "E202501850a03.pdf": {
       "id": "E202501850a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501850a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501850a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501850a03.pdf",
       "routes": [
         "969C"
       ],
@@ -2438,7 +2561,8 @@
         "969C"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/30/2025"
     },
     "E202600030a03.pdf": {
       "id": "E202600030a03.pdf",
@@ -2459,7 +2583,8 @@
         "N969"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202600142a03.pdf": {
       "id": "E202600142a03.pdf",
@@ -2472,12 +2597,13 @@
         "973"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/08/2026"
     },
     "E202501910a03.pdf": {
       "id": "E202501910a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501910a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501910a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501910a03.pdf",
       "routes": [
         "A10",
         "A11",
@@ -2503,12 +2629,13 @@
         "A29"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/30/2025"
     },
     "E202500973b03.pdf": {
       "id": "E202500973b03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202500973b03.pdf",
-      "pdfPath": "CTB/2026/01/E202500973b03.pdf",
+      "pdfPath": "CTB/2025/07/E202500973b03.pdf",
       "routes": [
         "A12",
         "NA12"
@@ -2518,12 +2645,13 @@
         "NA12"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "07/15/2025"
     },
     "E202501542a03.pdf": {
       "id": "E202501542a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501542a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501542a03.pdf",
+      "pdfPath": "CTB/2025/11/E202501542a03.pdf",
       "routes": [
         "A20",
         "A23",
@@ -2541,12 +2669,13 @@
         "E21D"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "11/04/2025"
     },
     "E202501703a03.pdf": {
       "id": "E202501703a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501703a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501703a03.pdf",
+      "pdfPath": "CTB/2025/11/E202501703a03.pdf",
       "routes": [
         "A23"
       ],
@@ -2554,12 +2683,13 @@
         "A23"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "11/25/2025"
     },
     "E202501711a03.pdf": {
       "id": "E202501711a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501711a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501711a03.pdf",
+      "pdfPath": "CTB/2025/11/E202501711a03.pdf",
       "routes": [
         "A26",
         "E22P",
@@ -2573,12 +2703,13 @@
         "N26"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "11/26/2025"
     },
     "E202501713a03.pdf": {
       "id": "E202501713a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501713a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501713a03.pdf",
+      "pdfPath": "CTB/2025/11/E202501713a03.pdf",
       "routes": [
         "A26",
         "E22P",
@@ -2592,7 +2723,8 @@
         "N26"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "11/26/2025"
     },
     "E202600096a03.pdf": {
       "id": "E202600096a03.pdf",
@@ -2605,12 +2737,13 @@
         "B3A"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/05/2026"
     },
     "E202400702a03.pdf": {
       "id": "E202400702a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202400702a03.pdf",
-      "pdfPath": "CTB/2026/01/E202400702a03.pdf",
+      "pdfPath": "CTB/2024/05/E202400702a03.pdf",
       "routes": [
         "E11",
         "E11A",
@@ -2646,12 +2779,13 @@
         "S52P"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "05/09/2024"
     },
     "E202501400a03.pdf": {
       "id": "E202501400a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501400a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501400a03.pdf",
+      "pdfPath": "CTB/2025/10/E202501400a03.pdf",
       "routes": [
         "E11B",
         "E21A",
@@ -2663,7 +2797,8 @@
         "E21B"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "10/10/2025"
     },
     "E202600156a03.pdf": {
       "id": "E202600156a03.pdf",
@@ -2676,12 +2811,13 @@
         "E21"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/13/2026"
     },
     "E202501040a03.pdf": {
       "id": "E202501040a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501040a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501040a03.pdf",
+      "pdfPath": "CTB/2025/07/E202501040a03.pdf",
       "routes": [
         "H1",
         "H1S",
@@ -2699,12 +2835,13 @@
         "H4"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "07/30/2025"
     },
     "E202501822a03.pdf": {
       "id": "E202501822a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501822a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501822a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501822a03.pdf",
       "routes": [
         "H3",
         "H4"
@@ -2714,12 +2851,13 @@
         "H4"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/18/2025"
     },
     "E202500724c03.pdf": {
       "id": "E202500724c03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202500724c03.pdf",
-      "pdfPath": "CTB/2026/01/E202500724c03.pdf",
+      "pdfPath": "CTB/2025/10/E202500724c03.pdf",
       "routes": [
         "N26"
       ],
@@ -2727,7 +2865,8 @@
         "N26"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "10/30/2025"
     },
     "E202600031a03.pdf": {
       "id": "E202600031a03.pdf",
@@ -2740,12 +2879,13 @@
         "N307"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/12/2026"
     },
     "E202501515a03.pdf": {
       "id": "E202501515a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501515a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501515a03.pdf",
+      "pdfPath": "CTB/2025/10/E202501515a03.pdf",
       "routes": [
         "N691"
       ],
@@ -2753,7 +2893,8 @@
         "N691"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "10/28/2025"
     },
     "E202600141a03.pdf": {
       "id": "E202600141a03.pdf",
@@ -2766,7 +2907,8 @@
         "N8"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/08/2026"
     },
     "E202600050a03.pdf": {
       "id": "E202600050a03.pdf",
@@ -2779,7 +2921,8 @@
         "N8P"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "01/02/2026"
     },
     "E202500835b03.pdf": {
       "id": "E202500835b03.pdf",
@@ -2794,12 +2937,13 @@
         "NP2"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "N/A"
     },
     "E202501912a03.pdf": {
       "id": "E202501912a03.pdf",
       "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501912a03.pdf",
-      "pdfPath": "CTB/2026/01/E202501912a03.pdf",
+      "pdfPath": "CTB/2025/12/E202501912a03.pdf",
       "routes": [
         "S1",
         "X1"
@@ -2809,7 +2953,8 @@
         "X1"
       ],
       "discoveredAt": "2026-01-14T18:55:39.061Z",
-      "lastSeenAt": "2026-01-14T18:55:39.061Z"
+      "lastSeenAt": "2026-01-14T18:55:39.061Z",
+      "publishedAt": "12/31/2025"
     }
   },
   "KMB": {
