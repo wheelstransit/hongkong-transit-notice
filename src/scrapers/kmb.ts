@@ -14,8 +14,8 @@ const KMB_PDF_API = (url: string) =>
 
 interface KMBRoute {
   route: string;
-  bound: number;
-  service_type: number;
+  bound: string;
+  service_type: string;
 }
 
 interface KMBNoticeResponse {
@@ -42,11 +42,12 @@ async function fetchKMBRoutes(): Promise<Route[]> {
   
   const uniqueRoutes = new Map<string, Route>();
   for (const route of routes) {
-    const key = `${route.route}_${route.bound}`;
+    const bound = route.bound === 'O' ? 1 : route.bound === 'I' ? 2 : 1;
+    const key = `${route.route}_${bound}`;
     if (!uniqueRoutes.has(key)) {
       uniqueRoutes.set(key, {
         route: route.route,
-        bound: route.bound
+        bound
       });
     }
   }
