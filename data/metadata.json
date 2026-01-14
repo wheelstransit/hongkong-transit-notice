@@ -1,0 +1,94 @@
+{
+  "CTB": {
+    "1": {
+      "E202501199b03.pdf": {
+        "id": "E202501199b03.pdf",
+        "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501199b03.pdf",
+        "route": "1",
+        "isActive": true,
+        "discoveredAt": "2026-01-14T17:49:34.596Z"
+      },
+      "E202500795a03.pdf": {
+        "id": "E202500795a03.pdf",
+        "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202500795a03.pdf",
+        "route": "1",
+        "isActive": true,
+        "discoveredAt": "2026-01-14T17:49:34.596Z"
+      },
+      "E202500792b03.pdf": {
+        "id": "E202500792b03.pdf",
+        "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202500792b03.pdf",
+        "route": "1",
+        "isActive": true,
+        "discoveredAt": "2026-01-14T17:49:34.596Z"
+      }
+    },
+    "10": {
+      "E202600090a03.pdf": {
+        "id": "E202600090a03.pdf",
+        "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202600090a03.pdf",
+        "route": "10",
+        "isActive": true,
+        "discoveredAt": "2026-01-14T17:49:34.596Z"
+      },
+      "E202600101a03.pdf": {
+        "id": "E202600101a03.pdf",
+        "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202600101a03.pdf",
+        "route": "10",
+        "isActive": true,
+        "discoveredAt": "2026-01-14T17:49:34.596Z"
+      },
+      "E202501199b03.pdf": {
+        "id": "E202501199b03.pdf",
+        "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501199b03.pdf",
+        "route": "10",
+        "isActive": true,
+        "discoveredAt": "2026-01-14T17:49:34.596Z"
+      },
+      "E202501736a03.pdf": {
+        "id": "E202501736a03.pdf",
+        "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501736a03.pdf",
+        "route": "10",
+        "isActive": true,
+        "discoveredAt": "2026-01-14T17:49:34.596Z"
+      },
+      "E202501179a03.pdf": {
+        "id": "E202501179a03.pdf",
+        "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501179a03.pdf",
+        "route": "10",
+        "isActive": true,
+        "discoveredAt": "2026-01-14T17:49:34.596Z"
+      }
+    },
+    "101": {
+      "E202600101a03.pdf": {
+        "id": "E202600101a03.pdf",
+        "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202600101a03.pdf",
+        "route": "101",
+        "isActive": true,
+        "discoveredAt": "2026-01-14T17:49:34.596Z"
+      },
+      "E202600044a03.pdf": {
+        "id": "E202600044a03.pdf",
+        "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202600044a03.pdf",
+        "route": "101",
+        "isActive": true,
+        "discoveredAt": "2026-01-14T17:49:34.596Z"
+      },
+      "E202501199b03.pdf": {
+        "id": "E202501199b03.pdf",
+        "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501199b03.pdf",
+        "route": "101",
+        "isActive": true,
+        "discoveredAt": "2026-01-14T17:49:34.596Z"
+      },
+      "E202501179a03.pdf": {
+        "id": "E202501179a03.pdf",
+        "pdfUrl": "https://mobile.citybus.com.hk/pdf/E202501179a03.pdf",
+        "route": "101",
+        "isActive": true,
+        "discoveredAt": "2026-01-14T17:49:34.596Z"
+      }
+    }
+  }
+}
